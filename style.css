@@ -1,0 +1,25 @@
+/* styles.css */
+#mainDiv {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
+     display: flex;
+     justify-content: center;
+    /* background-color:aqua ; */
+
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+.sec{
+    padding: 40px;
+    border : solid 2px orange;
+    margin: 30px;
+}
+
+
